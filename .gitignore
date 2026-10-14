@@ -9,3 +9,6 @@ xcuserdata/
 .beads-credential-key
 .beads/proxieddb/
 *.gate.lock*
+
+# Vendored VLCKit distribution (2.7GB; dSYM/binaries exceed GitHub 100MB file limit) — dependency fetched separately
+Vendor/
